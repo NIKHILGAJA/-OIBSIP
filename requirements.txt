@@ -1,6 +1,0 @@
-speechrecognition
-pyttsx3
-pyaudio
-wikipedia
-requests
-lxml
